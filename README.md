@@ -2,7 +2,6 @@ inspect
 =======
 
 ```dart
-import "dart:async";
 import "package:inspect/inspect.dart";
 
 void main() {
