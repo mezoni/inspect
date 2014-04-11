@@ -38,7 +38,6 @@ void inspectPrivate() {
   if (DartPrivate.eval != null) {
     print("");
 
-    var eval = DartPrivate.eval;
     var expr = "(x, y) => x + y";
     var x = 10;
     var y = 20;
