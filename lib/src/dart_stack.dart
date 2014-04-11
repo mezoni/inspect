@@ -15,6 +15,7 @@ class DartStack {
     try {
       throw "";
     } catch (e, s) {
+      _stackTrace = s;
       _raw = s.toString();
     }
   }
