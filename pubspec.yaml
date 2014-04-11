@@ -1,0 +1,9 @@
+name: inspect
+version: 0.0.1
+author: Andrew Mezoni <andrew.mezoni@gmail.com>
+description: Dart inspect helps you easily get information about the current executed code (class, method, line, file), private declarations and Dart VM.
+homepage: https://github.com/mezoni/inspect
+dependencies:
+  path: any
+dev_dependencies:
+  unittest: any
